@@ -9,3 +9,7 @@ function megaCool() {
 }
 
 megaCool();
+
+function hello () {
+  console.log("Hello Gio")
+}
